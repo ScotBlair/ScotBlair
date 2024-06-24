@@ -7,7 +7,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ScotBlair/ticket-lifecycle)
 - <b>Microsoft Virtual Machines</b>
   - [Configuring Active Directory within VMs](https://github.com/ScotBlair/configure-ad)
-  - [Network Security Groups (NSGs)](https://github.com/ScotBlair/network-security)
+  <!-- [Network Security Groups (NSGs)](https://github.com/ScotBlair/network-security)
 
 <!-- <h2>Connect with me:</h2>
 
