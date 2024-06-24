@@ -3,7 +3,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Installation Configuration] <!-- (https://github.com/ScotBlair/post-install-config) -->
+  - [osTicket: Post-Installation Configuration](https://github.com/ScotBlair/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ScotBlair/ticket-lifecycle)
 - <b>Microsoft Virtual Machines</b>
   - [Configuring Active Directory within VMs](https://github.com/ScotBlair/configure-ad)
