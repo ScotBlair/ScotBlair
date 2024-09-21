@@ -8,6 +8,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within VMs](https://github.com/ScotBlair/configure-ad)
   - [Network Security Groups (NSGs)](https://github.com/ScotBlair/network-security)
+- <b>ProtonVPN</b>
+  - [Establishing a VPN](https://github.com/ScotBlair/VPN)
 
 <h2>Connect with me:</h2>
 
